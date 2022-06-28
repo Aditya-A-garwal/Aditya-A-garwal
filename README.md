@@ -8,7 +8,7 @@ I have a blog website [Dumblebots](https://www.dumblebots.com), where I share my
 - C++
 - Python
 - Arduino
-- Assembly (GAS on AVR and x86-64)
+- Assembly (GAS, NASM for x86-64 and avrasm, avr-as on AVR)
 - I also have some experience using Django for full stack development
 
 ### 🌱 Currently Learning
