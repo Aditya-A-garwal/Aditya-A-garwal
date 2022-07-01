@@ -12,7 +12,7 @@ I have a blog website [Dumblebots](https://www.dumblebots.com), where I share my
 - I also have some experience using Django for full stack development
 
 ### 🌱 Currently Learning
-- Django
+- Android App development
 - Mongo DB
 
 ### ⚡ Currently Working On
