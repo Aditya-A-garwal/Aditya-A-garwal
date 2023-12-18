@@ -1,11 +1,11 @@
 ## Hey there passerby! 👋
 
 I am Aditya Agarwal, an undergrad student interested in systems programming, embedded development, low-level programming and DSALGO. I am a bronze medallist in the Indian National Olympiad in Informatics 2022. I also like to build small applications/websites/games which require full stack development.
-I have a blog website [Dumblebots](https://www.dumblebots.com), where I share my learnings for others and have also created [Handwriter](https://www.handwriter.in), where you can convert typed text to handwritten images.
+I have a blog website [Dumblebots](https://www.dumblebots.com), where I share my learnings for others.
 
 ### 💬 Known Languages
-- C
-- C++
+- C (specialization in embedded)
+- C++ (specialization in embedded)
 - Rust
 - Python
 - Arduino
@@ -17,7 +17,8 @@ I have a blog website [Dumblebots](https://www.dumblebots.com), where I share my
 - Bootloader and RTOS development for ARM Cortex M
 
 ### ⚡ Currently Working On
-- Simple bootloader and RTOS Kernel for ARM Cortex M0+
+- Libraries for various sensors and actuators using ARM MBed OS on ARM Cortex M microcontrollers
+- Stable Diffusion to generate aesthetic and scannable QR Code artwork
 
 ### 📫 How to reach me
 - Email: aditya.agarwal@dumblebots.com
