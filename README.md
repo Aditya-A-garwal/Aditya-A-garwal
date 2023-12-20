@@ -1,5 +1,9 @@
 ## Hey there passerby! 👋
 
+![GitHub followers](https://img.shields.io/github/followers/Aditya-A-garwal?style=flat-square&color=green)
+![GitHub User's stars](https://img.shields.io/github/stars/Aditya-A-garwal?style=flat-square&color=cyan)
+![Reddit User Karma](https://img.shields.io/reddit/user-karma/comment/TheYUniversal?style=flat-square&color=orange)
+
 I am Aditya Agarwal, an undergrad student interested in systems programming, embedded development, low-level programming and DSALGO. I am a bronze medallist in the Indian National Olympiad in Informatics 2022. I also like to build small applications/websites/games which require full stack development.
 I have a blog website [Dumblebots](https://www.dumblebots.com), where I share my learnings for others.
 
