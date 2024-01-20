@@ -16,8 +16,9 @@ I have a blog website [Dumblebots](https://www.dumblebots.com), where I share my
 - I also have some experience using Flask for full stack development
 
 ### 🌱 Currently Learning
-- Cortex M0+ development using STM32
-- Bootloader and RTOS development for ARM Cortex M
+- Bare Metal Development on ARM Cortex M microcontrollers
+- Using various RTOSs on ARM Cortex M microcontrollers and RTOS programming patterns, application design
+- Stable Diffusion Image Generation
 
 ### ⚡ Currently Working On
 - Libraries for various sensors and actuators using ARM MBed OS on ARM Cortex M microcontrollers
@@ -25,7 +26,7 @@ I have a blog website [Dumblebots](https://www.dumblebots.com), where I share my
 
 ### 📫 How to reach me
 - Email: aditya.agarwal@dumblebots.com
-- LinkedIn: https://www.linkedin.com/in/aditya-agarwal-6a57bb243
+- LinkedIn: https://www.linkedin.com/in/aditya-agarwal
 - Discord: TheYUniversal#6604
 - Codeforces: https://codeforces.com/profile/Aditya-A-garwal
 - Codechef: https://www.codechef.com/users/aditya_a_grwal
