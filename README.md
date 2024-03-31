@@ -26,7 +26,7 @@ I have a blog website [Dumblebots](https://www.dumblebots.com), where I share my
 
 ### 📫 How to reach me
 - Email: aditya.agarwal@dumblebots.com
-- LinkedIn: https://www.linkedin.com/in/aditya-agarwal
+- LinkedIn: https://www.linkedin.com/in/aditya-a-garwal?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 - Discord: TheYUniversal#6604
 - Codeforces: https://codeforces.com/profile/Aditya-A-garwal
 - Codechef: https://www.codechef.com/users/aditya_a_grwal
