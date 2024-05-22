@@ -28,8 +28,8 @@ I have a blog website [Dumblebots](https://www.dumblebots.com), where I share my
 - Email: aditya.agarwal@dumblebots.com
 - LinkedIn: https://www.linkedin.com/in/aditya-a-garwal?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 - Discord: TheYUniversal#6604
-- Codeforces: https://codeforces.com/profile/Aditya-A-garwal
-- Codechef: https://www.codechef.com/users/aditya_a_grwal
+<!-- - Codeforces: https://codeforces.com/profile/Aditya-A-garwal
+- Codechef: https://www.codechef.com/users/aditya_a_grwal -->
 - CSES: https://cses.fi/user/70087
 - Github: https://github.com/Aditya-A-garwal
 
